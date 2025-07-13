@@ -24,3 +24,15 @@
 ## Как ссылаться
 
 `Boris Orekhov. Nevmenandr/el_dar: V0.0.2. v0.0.2, Zenodo, 13 июль 2025 г., doi:10.5281/zenodo.15874100.`
+
+```
+@software{Boris_Orekhov_2025,
+author = {Boris Orekhov, Boris},
+license = {CC-BY-1.0},
+month = jul,
+title = {{Экспериментальный перевод на испанский романа «Дар» Владимира Набокова}},
+url = {https://github.com/nevmenandr/el_dar},
+doi = {10.5281/zenodo.15874100},
+year = {2025}
+}
+```
