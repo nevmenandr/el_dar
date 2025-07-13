@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Экспериментальный перевод на испанский романа «Дар»
+  Владимира Набокова
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15874100
+repository-code: 'https://github.com/nevmenandr/el_dar'
+url: 'https://github.com/nevmenandr/el_dar'
+abstract: >-
+  Этот репозиторий содержит код для создания
+  экспериментальных переводов на испанский язык
+  русскоязычной художественной литературы, а также сделанный
+  в соответствии с этой методикой текст перевода романа
+  Владимира Набокова «Дар».
+
+  Имеется в виду не реальный испанский язык, а такой,
+  который описан в анекдоте, известном по исполнению Иосифом
+  Бродским.
+keywords:
+  - translation
+  - nabokov
+license: CC-BY-1.0
+date-released: '2025-07-13'
