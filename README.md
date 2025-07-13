@@ -27,7 +27,7 @@
 
 ```
 @software{Boris_Orekhov_2025,
-author = {Boris Orekhov, Boris},
+author = {Orekhov, Boris},
 license = {CC-BY-1.0},
 month = jul,
 title = {{Экспериментальный перевод на испанский романа «Дар» Владимира Набокова}},
